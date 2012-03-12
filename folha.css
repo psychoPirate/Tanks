@@ -1,0 +1,29 @@
+body, html{
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+canvas {
+    
+    margin-top: 10%;
+    margin-left: 15%;
+    top: 0; left: 0; right: 0; bottom: 0;
+    border: solid 1px;
+    
+    
+    
+    
+}
+:-webkit-full-screen{
+  
+  position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    margin: auto;
+    width: 100%;
+    height: 100%;
+    
+}
+
+#gameboard:-moz-full-screen {
+  width: 100% !important;
+}
